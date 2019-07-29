@@ -1,0 +1,11 @@
+{
+    "1.7.1": {
+        "source": {
+            "type": "git",
+            "repository": "https://github.com/urho3d/Urho3D",
+            "revision": "1.7.1"
+        },
+        "tool": "cmake",
+        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -CMAKE_BUILD_TYPE={cmake-profile}"
+    }
+}
