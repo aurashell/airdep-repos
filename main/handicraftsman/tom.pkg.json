@@ -6,6 +6,6 @@
             "revision": "v0.1.4"
         },
         "tool": "cmake",
-        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -CMAKE_BUILD_TYPE={cmake-profile}"
+        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -DCMAKE_BUILD_TYPE={cmake-profile}"
     }
 }
