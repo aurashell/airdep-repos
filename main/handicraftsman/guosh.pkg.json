@@ -1,0 +1,11 @@
+{
+    "0.4.3": {
+        "source": {
+            "type": "git",
+            "repository": "https://github.com/handicraftsman/guosh/",
+            "revision": "v0.4.3"
+        },
+        "tool": "cmake",
+        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -CMAKE_BUILD_TYPE={cmake-profile}"
+    }
+}

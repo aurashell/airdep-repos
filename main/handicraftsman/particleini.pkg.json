@@ -1,0 +1,11 @@
+{
+    "0.1.5": {
+        "source": {
+            "type": "git",
+            "repository": "https://github.com/handicraftsman/particleini",
+            "revision": "v0.1.5"
+        },
+        "tool": "meson",
+        "configure-flags": "-Dprefix={install} -Dbuildtype={meson-profile}"
+    }
+}
