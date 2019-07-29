@@ -1,0 +1,6 @@
+{
+  "variables": ["cmake-profile"],
+  "package-files": {
+    "boost": "packages/boost.pkg.json"
+  }
+}

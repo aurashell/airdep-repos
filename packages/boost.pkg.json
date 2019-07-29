@@ -1,0 +1,25 @@
+{
+  "1.70.0": {
+    "source": {
+      "type": "tar",
+      "url": "https://dl.bintray.com/boostorg/release/1.70.0/source/boost_1_70_0.tar.gz"
+    },
+    "tool": "custom-insource",
+    "build-steps": [
+      {
+        "wants": ["{source}/bootstrap.sh"],
+        "commands": [
+          "{source}/bootstrap.sh --prefix={install}",
+          "touch {build0lock}"
+        ]
+      },
+      {
+        "wants": ["{build0lock}", "{source}/b2"],
+        "commands": [
+          "{source}/b2 install",
+          "touch {buildlock}"
+        ]
+      }
+    ]
+  }
+}
