@@ -6,6 +6,6 @@
             "revision": "1.7.1"
         },
         "tool": "cmake",
-        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -DCMAKE_BUILD_TYPE={cmake-profile}"
+        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -DCMAKE_BUILD_TYPE={cmake-profile} -DBUILD_SHARED_LIBS=ON"
     }
 }
