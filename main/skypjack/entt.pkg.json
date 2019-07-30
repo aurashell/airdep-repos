@@ -1,0 +1,11 @@
+{
+    "3.0.0": {
+        "source": {
+            "type": "git",
+            "repository": "https://github.com/skypjack/entt/",
+            "revision": "v3.0.0"
+        },
+        "tool": "cmake",
+        "configure-flags": "-DCMAKE_INSTALL_PREFIX={install} -DCMAKE_BUILD_TYPE={cmake-profile}"
+    }
+}

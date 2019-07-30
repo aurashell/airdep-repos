@@ -5,6 +5,8 @@
 
     "fraillt/bitsery": "main/fraillt/bitsery.pkg.json",
 
+    "gabime/spdlog": "main/gabime/spdlog.pkg.json",
+
     "handicraftsman/guosh": "main/handicraftsman/guosh.pkg.json",
     "handicraftsman/particledi": "main/handicraftsman/particledi.pkg.json",
     "handicraftsman/particleini": "main/handicraftsman/particleini.pkg.json",
@@ -12,6 +14,8 @@
     "handicraftsman/tom": "main/handicraftsman/tom.pkg.json",
 
     "nlohmann/json": "main/nlohmann/json.pkg.json",
+
+    "skypjack/entt": "main/skypjack/entt.pkg.json",
 
     "urho3d/urho3d": "main/urho3d/urho3d.pkg.json"
   }
