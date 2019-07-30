@@ -13,8 +13,6 @@
     "handicraftsman/particletest": "main/handicraftsman/particletest.pkg.json",
     "handicraftsman/tom": "main/handicraftsman/tom.pkg.json",
 
-    "mygui/mygui": "main/mygui/mygui.pkg.json",
-
     "nlohmann/json": "main/nlohmann/json.pkg.json",
 
     "skypjack/entt": "main/skypjack/entt.pkg.json",
