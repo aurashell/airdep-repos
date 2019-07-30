@@ -1,0 +1,11 @@
+{
+    "3.7.0": {
+        "source": {
+            "type": "git",
+            "repository": "https://github.com/nlohmann/json",
+            "revision": "v3.7.0"
+        },
+        "tool": "cmake",
+        "configure-flags": "-DCMAKE_BUILD_TYPE={cmake-profile} -DCMAKE_INSTALL_PREFIX={install} -DJSON_BuildTests=OFF -DJSON_Install=ON"
+    }
+}

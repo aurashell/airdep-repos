@@ -2,12 +2,16 @@
   "variables": ["cmake-profile", "meson-profile"],
   "package-files": {
     "boostorg/boost": "main/boostorg/boost.pkg.json",
-    
+
+    "fraillt/bitsery": "main/fraillt/bitsery.pkg.json",
+
+    "handicraftsman/guosh": "main/handicraftsman/guosh.pkg.json",
     "handicraftsman/particledi": "main/handicraftsman/particledi.pkg.json",
     "handicraftsman/particleini": "main/handicraftsman/particleini.pkg.json",
     "handicraftsman/particletest": "main/handicraftsman/particletest.pkg.json",
     "handicraftsman/tom": "main/handicraftsman/tom.pkg.json",
-    "handicraftsman/guosh": "main/handicraftsman/guosh.pkg.json",
+
+    "nlohmann/json": "main/nlohmann/json.pkg.json",
 
     "urho3d/urho3d": "main/urho3d/urho3d.pkg.json"
   }
