@@ -1,0 +1,11 @@
+{
+  "65.1.0": {
+    "source": {
+      "type": "git",
+      "repository": "https://github.com/unicode-org/icu.git",
+      "revision": "release-65-1"
+    },
+    "where": "icu4c/source",
+    "tool": "autotools"
+  }
+}

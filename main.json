@@ -17,6 +17,7 @@
 
     "skypjack/entt": "main/skypjack/entt.pkg.json",
 
+    "unicode-org/icu": "main/unicode-org/icu.pkg.json",
     "urho3d/urho3d": "main/urho3d/urho3d.pkg.json"
   }
 }
